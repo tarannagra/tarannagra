@@ -8,8 +8,6 @@
   </samp>
 </p>
 
----
-
 <details align="center">
     <summary>
         <samp>What do I know?</samp>
