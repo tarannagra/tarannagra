@@ -11,7 +11,7 @@
 ```toml
 [about_me]
 name = "Taran Nagra"
-age = 20
+age = 21
 occupation = "Computer Science w/ AI Student"
 location = "127.0.0.1"
 current_os = "Windows 11"
