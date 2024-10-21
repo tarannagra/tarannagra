@@ -38,9 +38,9 @@ repos = [
     url = "https://github.com/tarannagra/tarannagra"
   },
   {
-    name = "deezDownload",
-    desc = "deezDownload is a wrapper around the deemix Python executable in a Terminal User Interface (TUI).",
-    url = "https://github.com/tarannagra/deezDownload"
+    name = "Wallpapers",
+    desc = "My collection of wallpapers I've found online. ",
+    url = "https://github.com/tarannagra/Wallpapers"
   }
 ]
 
