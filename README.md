@@ -76,7 +76,7 @@ A curated collection of wallpapers I’ve found online and wanted to share with 
 - 📧 **Email**: <tarannagra@proton.me>
 - 🌐 **Portfolio**: [https://tarannagra.github.io/](https://tarannagra.github.io/)  
 - 📁 **GitHub Gist for Updates**: [https://gist.github.com/tarannagra](https://gist.github.com/tarannagra)  
-- 💼 **LinkedIn**: (Currently unavailable; please use email instead)  
+- 💼 **LinkedIn**: [My Profile](https://www.linkedin.com/in/taran-nagra-profile)  
 
 ---
 
