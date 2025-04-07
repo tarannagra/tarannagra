@@ -15,7 +15,8 @@
 Hi! I'm **Taran Nagra**, a 21-year-old final-year **Computer Science with AI** student passionate about **software development**, **artificial intelligence**, and learning about how I can make software that has a real impact in the world. I enjoy building innovative projects, learning new technologies, and solving complex problems.
 
 - 🌍 **Location**: Coventry, United Kingdom
-- 🖥️ **Current Setup**: Windows 11 with Komorebi
+- 🪟 **Current Setup**: Windows 11 with Komorebi
+- 🐧 **Current Setup**: Arch Linux with Hyprland
 - 💡 **What I Do**: Write clean, efficient code and explore new and upcoming technologies.
 
 ---
