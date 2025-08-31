@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Taran Nagra**, a 21-year-old MSci **Computer Science with AI** student passionate about **software development**, **artificial intelligence**, and learning about how I can make software that has a real impact in the world. I enjoy building innovative projects, learning new technologies, and solving complex problems.
+Hi! I'm **Taran Nagra**, a MSci **Computer Science with AI** student passionate about **software development**, **artificial intelligence**, and learning about how I can make software that has a real impact in the world. I enjoy building innovative projects, learning new technologies, and solving complex problems.
 
 - 🌍 **Location**: Coventry, United Kingdom
 - 🪟 **Current Setup**: Windows 11 with Komorebi
