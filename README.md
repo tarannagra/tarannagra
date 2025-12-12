@@ -16,7 +16,7 @@ Hi! I'm **Taran Nagra**, a MSci **Computer Science with AI** student passionate 
 
 - 🌍 **Location**: Coventry, United Kingdom
 - 🪟 **Current Setup**: Windows 11 with Komorebi
-- 🐧 **Current Setup**: Arch Linux with Hyprland
+- 🐧 **Current Setup**: Arch Linux with Niri
 - 💡 **What I Do**: Write clean, efficient code and explore new and upcoming technologies.
 
 ---
